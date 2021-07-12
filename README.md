@@ -1,4 +1,4 @@
-# Hello there, I'm Carlos Filipe 👋👽
+# Hello there, I'm Carlos Filipe 👋
 
 ### I am Full Stack Developer in progress. I study Science and Technology at UFMA (Federal University of Maranhão). I am looking to master my knowledge and become a specialist in ReactJS/React Native.
 
