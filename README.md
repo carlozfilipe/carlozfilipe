@@ -37,5 +37,5 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/carlozfilipe
+[twitter]: https://twitter.com/carlozfilipe
 [linkedin]: https://linkedin.com/in/carlozfilipe
