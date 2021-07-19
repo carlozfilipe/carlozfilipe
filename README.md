@@ -1,6 +1,6 @@
 # Hello there, I'm Carlos Filipe 👋
 
-### I am Full Stack Developer in progress. I study Science and Technology at UFMA (Federal University of Maranhão). I am looking to master my knowledge and become a specialist in ReactJS/React Native.
+### I am Software Developer in progress. I study Science and Technology at UFMA (Federal University of Maranhão). I am looking to master my knowledge and become a specialist in ReactJS/React Native.
 
 - 🤓 I'm Currently studying to become a Full Stack Developer
 - 👯 I’m looking forward to connect with amazing people
